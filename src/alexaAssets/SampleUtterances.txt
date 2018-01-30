@@ -1,0 +1,5 @@
+GetFactIntent a fact
+GetFactIntent tell me a fact
+GetFactIntent tell me something
+GetFactIntent tell me something interesting
+GetFactIntent tell me something interesting about my intent
